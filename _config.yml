@@ -1,0 +1,28 @@
+name: hgrenade
+favicon: null
+layout_spectrum: 0.9915056142490357
+typography_spectrum: 0.8556435436476022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3239790725056082
+  lightness: 0.2266163844615221
+  saturation: 0.9033730935771018
+  rhythmicContrast: 0.2717180422041565
+purpose: []
